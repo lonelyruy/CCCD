@@ -1,0 +1,1 @@
+var tagfolder = ["All Images","Facebook","Testimonial"];

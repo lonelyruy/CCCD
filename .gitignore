@@ -1,0 +1,11 @@
+# Directories
+images/
+documents/
+public_html_edit/images/
+public_html_edit/documents/
+
+# File types
+*.jpg
+*.jpeg
+*.png
+*.pdf

@@ -1,0 +1,36 @@
+#RVS START REDIRECT PAGE
+<IfModule mod_rewrite.c>
+  RewriteEngine  on
+  RewriteBase /
+ 
+RewriteRule ^What\'s_On_@_CCCD\.php$ Whats_On_@_CCCD\.php [R=301,NE,QSA,L]
+RewriteRule ^Certified\-Financial\-Planner\-\-CFP\-\-Certification\-Programme\.php$ Feb\-Aug_2024_Certified\-Financial\-Planner\-\-CFP\-\-Certification\-Programme\.php [R=301,NE,QSA,L]
+RewriteRule ^Edutourism_Testimonials\.php$ old_Edutourism_Testimonials_22082024\.php [R=301,NE,QSA,L]
+RewriteRule ^Training_2023\.php$ Training_2023_\-old_as_of_30may2024\-\.php [R=301,NE,QSA,L]
+RewriteRule ^Upcoming_Events_2023\.php$ Upcoming_Events_2023_\-backup_as_of_14022024\-\.php [R=301,NE,QSA,L]
+RewriteRule ^Consultancy\.php$ Consultancy_v2\.php [R=301,NE,QSA,L]
+RewriteRule ^Upcoming_Training_2024\.php$ Upcoming_Training_2024_old\.php [R=301,NE,QSA,L]
+RewriteRule ^upcoming_training_2024\.php$ training_2024\.php [R=301,NE,QSA,L]
+RewriteRule ^Upcoming_Events_2024\.php$ Events_2024\.php [R=301,NE,QSA,L]
+RewriteRule ^Draft\-Training\-2023\.php$ Training\-2023\.php [R=301,NE,QSA,L]
+RewriteRule ^Edutourism_Testimonials\.php$ Temp_Edutourism_Testimonials\.php [R=301,NE,QSA,L]
+RewriteRule ^>Testimonials\.php$ Testimonials\.php [R=301,NE,QSA,L]
+RewriteRule ^public_training\.php$ public_training_2025\.php [R=301,NE,QSA,L]
+RewriteRule ^HSK_2025_Schedule\.php$ HSK_2026_Schedule\.php [R=301,NE,QSA,L]
+RewriteRule ^UTAR_Staff_Development__Training_2025\.php$ UTAR_Staff_Development__Training\.php [R=301,NE,QSA,L]
+RewriteRule ^Training_Videos\.php$ Backup_\-OLD\-_Training_Videos\.php [R=301,NE,QSA,L]
+RewriteRule ^New_Edutourism\.php$ 2025:_Edutourism\.php [R=301,NE,QSA,L]
+RewriteRule ^Draft_Training_Videos\.php$ Training_Videos\.php [R=301,NE,QSA,L]
+RewriteRule ^Copied_Upcoming_Training_2026\.php$ Upcoming_Training_2026\.php [R=301,NE,QSA,L]
+RewriteRule ^DRAFT_Certified_Financial_Planner_\-CFP\-_Certification_Programme\.php$ Certified_Financial_Planner_\-CFP\-_Certification_Programme\.php [R=301,NE,QSA,L]
+RewriteRule ^B2\-26_Calendar\.php$ 2\-26_Calendar\.php [R=301,NE,QSA,L]
+RewriteRule ^Training_Videos\.php$ old\-Training_Videos\.php [R=301,NE,QSA,L]
+RewriteRule ^Training\-Expertise\.php$ \-problem_page\-_Training\-Expertise\.php [R=301,NE,QSA,L]
+RewriteRule ^KLESF\.php$ KLESF_\-dont_delete\-\.php [R=301,NE,QSA,L]
+RewriteRule ^MMLM\.php$ MMLM\-_\-dont_delete\-\.php [R=301,NE,QSA,L]
+RewriteRule ^Upcoming_Events_2026\.php$ Upcoming_Events_2026_old\.php [R=301,NE,QSA,L]
+RewriteRule ^Upcoming_Events_2025\.php$ Events_2025\.php [R=301,NE,QSA,L]
+RewriteRule ^Copied_Upcoming_Training_20261\.php$ Copied_Upcoming_Training_2026\.php [R=301,NE,QSA,L]
+RewriteRule ^Copied\-Upcoming\-Events\-2026\.php$ Upcoming\-Events\-2026\.php [R=301,NE,QSA,L]
+</IfModule>
+#RVS END REDIRECT PAGE
